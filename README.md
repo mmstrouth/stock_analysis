@@ -9,18 +9,17 @@ Overall, refactoring the code saved time running the analysis, as shown in scree
 
 Screenshot 1
 
-![This is an image](https:)
+![This is an image](https://github.com/mmstrouth/stock_analysis/blob/1f96aa09563225dbda18f8b7114751fbbfafe448/Resources/VBA_Challenge_2017.png)
 
 Screenshot 2
 
-![This is an image](https:)
+![This is an image](https://github.com/mmstrouth/stock_analysis/blob/1f96aa09563225dbda18f8b7114751fbbfafe448/Resources/VBA_Challenge_2018.png)
 
 This code required forLoops and conditional statements as shown below.
 
 Screenshot 3
 
-![This is an image](https:)
-
+![This is an image](https://github.com/mmstrouth/stock_analysis/blob/1f96aa09563225dbda18f8b7114751fbbfafe448/Resources/example_code.png)
 
 
 ## Summary
